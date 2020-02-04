@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID 1 - ReportGenerator", "SOLID 1 - ReportGenerator\SOLID 1 - ReportGenerator.csproj", "{82C6F057-529F-4813-8285-5BA02AFEC2DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C6F057-529F-4813-8285-5BA02AFEC2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C6F057-529F-4813-8285-5BA02AFEC2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C6F057-529F-4813-8285-5BA02AFEC2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C6F057-529F-4813-8285-5BA02AFEC2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C49F08FE-8C18-4DCB-9453-508E7DC3A547}
+	EndGlobalSection
+EndGlobal
